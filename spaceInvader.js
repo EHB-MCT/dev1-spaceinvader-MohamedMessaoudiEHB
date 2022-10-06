@@ -13,7 +13,7 @@ let canvas = document.querySelector("canvas");
    let context = canvas.getContext("2d");
 
    //rec
-context.fillStyle = "green";
+context.fillStyle = "lightgreen";
 context.fillRect(500, 50, 200, 200);
 
 
